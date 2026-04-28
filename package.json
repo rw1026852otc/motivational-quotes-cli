@@ -1,13 +1,14 @@
 {
   "name": "motivational-quotes-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "Week 14 Project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "R. Tanner West",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
